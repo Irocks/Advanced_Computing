@@ -1,1 +1,1 @@
-# Advanced_Numerics_Course
+# Advanced Computing Class
